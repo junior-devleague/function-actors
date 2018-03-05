@@ -14,7 +14,7 @@ Instructors | 2+ (1 possible)
 Prep Time | 20-30 minutes
 Activity Time | 20-30 minutes
 Noise Level | Moderate
-Beware | Students finishing too fast may have nothing to do! Spread out the skill level across groups if skill level range is wide.
+Note | Students finishing too fast may have nothing to do! Spread out the skill level across groups if skill level range is wide.
 
 ## Preparation
 
